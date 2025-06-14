@@ -1,8 +1,7 @@
 "# RickMenu" 
-# 📅 SchedMate
+# 🍽️ Menu
 
-**SchedMate** is a sleek and simple web-based schedule management app that helps users stay organized and manage their time effectively. Whether you're a student, a professional, or someone who juggles multiple tasks daily, SchedMate is designed to bring clarity and structure to your calendar.
-
+Menu is a simple yet essential component of any website, acting as the main navigation system that helps users access different parts of a site quickly and efficiently. This project demonstrates how to design and implement a fully responsive and user-friendly navigation menu using modern web technologies.
 ---
 
 ## ✨ Features
